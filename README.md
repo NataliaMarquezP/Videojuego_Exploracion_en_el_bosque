@@ -1,9 +1,6 @@
 # 🌿 Videojuego de Exploración en el Bosque
 
-![Unity](https://img.shields/Unity-6-black?logo=unity
-https://img.shields.io/badge/C%23-Scripting-7B3399?logo=csharp
-https://img.shields.io/badge/Render%20Pipeline-URP-0078D7
-![Estado](https://img./badge/Estado-Prototipo%20funcional-success
+
 
 ## 🎮 Descripción
 
