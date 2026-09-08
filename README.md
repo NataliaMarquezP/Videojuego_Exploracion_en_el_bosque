@@ -70,7 +70,7 @@ En el vídeo se muestran las principales características del proyecto:
 - 🛢️ Funcionamiento de la trampa.
 - 🌊 Cauce con agua.
 - 🏁 Recorrido hasta el punto de meta.
-``
+
 ## 🎨 Recursos de terceros y créditos
 
 Las texturas, imágenes, modelos 3D, materiales y prefabs utilizados en este proyecto fueron obtenidos desde la **Unity Asset Store**.
