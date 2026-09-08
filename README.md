@@ -66,14 +66,11 @@ Estos recursos pertenecen a sus respectivos autores y distribuidores. Su inclusi
 
 La programación de las mecánicas, la configuración de las interacciones, el diseño del recorrido y la integración de los recursos fueron realizados para este proyecto.
 
+
 ## 📄 Nota sobre licencias
-2
- 
-3
+
 Este proyecto utiliza recursos de terceros obtenidos desde la Unity Asset Store. Los derechos de las texturas, imágenes, modelos, materiales y prefabs pertenecen a sus respectivos autores.
-4
- 
-5
+
 Antes de reutilizar o redistribuir cualquiera de estos recursos, se deben consultar las condiciones de licencia del paquete correspondiente.
 
 
