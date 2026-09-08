@@ -57,24 +57,7 @@ Al llegar al punto final se completa el objetivo principal del recorrido.
 - **Control del personaje:** Character Controller
 - **Control de versiones:** Git y GitHub
 
-## 📁 Estructura principal
-
-```text
-Assets/
-├── Animations/
-├── Materials/
-├── Models/
-├── Prefabs/
-├── Scenes/
-├── Scripts/
-│   ├── Interaction/
-│   └── Player/
-├── Textures/
-└── UI/
-
-Packages/
-ProjectSettings/
-
+  
 ## 🎨 Recursos de terceros y créditos
 
 Las texturas, imágenes, modelos 3D, materiales y prefabs utilizados en este proyecto fueron obtenidos desde la **Unity Asset Store**.
@@ -93,4 +76,23 @@ Este proyecto utiliza recursos de terceros obtenidos desde la Unity Asset Store.
 5
 Antes de reutilizar o redistribuir cualquiera de estos recursos, se deben consultar las condiciones de licencia del paquete correspondiente.
 
+
+
+## 📁 Estructura principal
+
+```text
+Assets/
+├── Animations/
+├── Materials/
+├── Models/
+├── Prefabs/
+├── Scenes/
+├── Scripts/
+│   ├── Interaction/
+│   └── Player/
+├── Textures/
+└── UI/
+
+Packages/
+ProjectSettings/
 
