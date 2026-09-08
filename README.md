@@ -57,7 +57,20 @@ Al llegar al punto final se completa el objetivo principal del recorrido.
 - **Control del personaje:** Character Controller
 - **Control de versiones:** Git y GitHub
 
-  
+  ## 🎥 Vídeo demostrativo
+
+▶️ [Ver demostración del videojuego en YouTube](https://www.youtube.com/shorts/D-gSguYUYbo)
+
+En el vídeo se muestran las principales características del proyecto:
+
+- 🌿 Exploración del escenario.
+- 🧍 Movimiento del personaje.
+- 🧰 Interacción con el cofre.
+- 🪨 Desplazamiento de la roca.
+- 🛢️ Funcionamiento de la trampa.
+- 🌊 Cauce con agua.
+- 🏁 Recorrido hasta el punto de meta.
+``
 ## 🎨 Recursos de terceros y créditos
 
 Las texturas, imágenes, modelos 3D, materiales y prefabs utilizados en este proyecto fueron obtenidos desde la **Unity Asset Store**.
